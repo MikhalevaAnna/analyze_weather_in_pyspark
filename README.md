@@ -13,7 +13,7 @@
 ### 1. Чтение данных:
 
 Загружаю данные из **CSV** файла в **DataFrame**.  <br>
-Для этого необходимо скачать **CSV** по ссылке - https://disk.yandex.ru/d/7Y7ZQgxUKizQsw <br>
+Для этого необходимо скачать **CSV** по ссылке - [https://disk.yandex.ru/d/7Y7ZQgxUKizQsw](https://disk.yandex.ru/d/oS0ecdv2eydNWg) <br>
 ### 2. Обработка данных:
 
 Преобразовываю столбец `date` в формат даты.<br>
